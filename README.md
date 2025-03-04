@@ -51,7 +51,7 @@
   </p>
   
   <p align="left">
-    <a href="https://leetcode.com/RITVIK/" target="_blank">
+    <a href="https://leetcode.com/u/Y0gtcc5Abj/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
     </a>
   </p>
