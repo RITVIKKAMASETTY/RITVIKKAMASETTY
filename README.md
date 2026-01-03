@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm Ritvik
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Makes+things+work...+eventually;Learn+by+building+and+breaking;Progress+over+perfection;Curious+by+default)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Makes+things+work...+eventually;Learn+by+iterating;Progress+over+perfection;Curious+by+default)
 
 </div>
 
@@ -10,20 +10,23 @@
 
 ## 💭 About Me
 
-AIML student who learns by doing. I work on **Full Stack**, **Gen AI**, **DSA**, and **ML** projects — building things from scratch and understanding why they work, not just that they work.
+An AIML student driven by curiosity and problem-solving. I enjoy understanding **how systems behave**, **why edge cases fail**, and **what makes solutions reliable**, not just functional.
 
-**Interests:** Machine Learning · DevOps · Cloud · System Programming · Operating Systems
+I like working across layers — from logic and algorithms to deployment and infrastructure — improving things through iteration and reflection.
 
-> *Gets stuck, figures it out, moves on.*
+**Areas I’m drawn to:**  
+Machine Learning · Cloud Systems · DevOps · System Programming · Operating Systems
+
+> Stuck → Analyze → Fix → Move forward
 
 ---
 
 ## 🎯 Current Focus
 
-- Writing better logic, not just more code
-- Building systems that handle edge cases
-- Improving problem-solving depth
-- Learning by iterating, failing, and fixing
+- Writing better logic, not just more code  
+- Designing systems that handle edge cases  
+- Improving depth in problem solving  
+- Learning through iteration, failure, and refinement  
 
 ---
 
@@ -31,10 +34,10 @@ AIML student who learns by doing. I work on **Full Stack**, **Gen AI**, **DSA**,
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RITVIKKAMASETTY&theme=dark&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
+![GitHub Streak](https://streak-stats.demolab.com?user=RITVIKKAMASETTY&theme=github-dark&hide_border=true)
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RITVIKKAMASETTY&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITVIKKAMASETTY&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RITVIKKAMASETTY&show_icons=true&theme=github_dark&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITVIKKAMASETTY&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
