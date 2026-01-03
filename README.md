@@ -10,17 +10,22 @@
 
 ## 💭 About Me
 
-I’m an AIML student who loves solving problems with **clear logic** and **thoughtful systems**.  
-I focus on understanding *why* things work, how they fail at the edges, and how to fix them better.
+I’m a **Full Stack Developer** with strong knowledge in **Machine Learning and AI**, driven by curiosity and problem-solving.
 
-I enjoy working with:
-- Machine Learning and AI
-- Cloud & DevOps tools
-- System programming fundamentals
-- Algorithms and data structures
+I enjoy building **end-to-end systems** — from backend logic and APIs to data pipelines and intelligent models — while understanding *how things work under the hood* and *why they fail at the edges*.
+
+My core interests include:
+- Full Stack Development  
+- Machine Learning & AI  
+- System Programming  
+- Cloud & DevOps  
+- Algorithms and Data Structures  
+
+I value **clarity over complexity**, **reliability over hacks**, and continuous improvement through iteration.
 
 **Guiding mindset:**  
 Stuck → Analyze → Fix → Move forward
+
 
 ---
 
