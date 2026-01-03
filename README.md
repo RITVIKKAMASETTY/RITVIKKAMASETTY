@@ -45,7 +45,7 @@ Stuck → Analyze → Fix → Move forward
 
 </div>
 
-> The GitHub stats cards above show your activity and top languages used in public repositories. :contentReference[oaicite:1]{index=1}
+
 
 ---
 
