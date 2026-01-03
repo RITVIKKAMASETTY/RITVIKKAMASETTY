@@ -27,16 +27,6 @@ I value **clarity over complexity**, **reliability over hacks**, and continuous 
 Stuck → Analyze → Fix → Move forward
 
 
----
-
-## 🎯 What I’m Doing Now
-
-- Writing cleaner and more reliable code  
-- Thinking deeply about edge cases  
-- Improving problem solving and design skills  
-- Building tools that handle real-world scenarios  
-
----
 
 ## 📊 GitHub Stats
 
