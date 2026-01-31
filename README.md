@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ritvik
+#  Hi, I'm Ritvik
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;GenAI+Engineer;Designing+Scalable+Systems;Always+Learning" />
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 What I Do
+## What I Do
 
 I’m a **Full Stack Developer** and **Generative AI Engineer** focused on building **scalable, production-ready systems**.
 
@@ -21,7 +21,7 @@ I care deeply about **how systems behave under load**, **how they fail**, and **
 
 ---
 
-## 🧠 Core Areas
+##  Core Areas
 
 | 💻 Full Stack | 🤖 GenAI | ⚙️ Systems |
 |--------------|---------|-----------|
@@ -30,7 +30,7 @@ I care deeply about **how systems behave under load**, **how they fail**, and **
 
 ---
 
-## 🚀 Currently Growing In
+## Currently Growing In
 
 I’m actively improving my understanding of:
 - **Machine Learning fundamentals**
@@ -39,7 +39,7 @@ I’m actively improving my understanding of:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Languages
 <p>
@@ -96,7 +96,7 @@ I’m actively improving my understanding of:
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RITVIKKAMASETTY&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
