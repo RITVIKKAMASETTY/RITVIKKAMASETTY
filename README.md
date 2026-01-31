@@ -1,75 +1,118 @@
 <div align="center">
-  
-# 👋 Hey, I'm Ritvik
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8b5cf6&center=true&vCenter=true&width=600&lines=Curious+Engineer;Problem+Solver+by+Habit;Building+Reliable+Systems;Continuous+Learner)
+# 👋 Hi, I'm Ritvik
 
-</div>
-
----
-
-## 💭 About Me
-
-I’m a **Full Stack Developer** with strong knowledge in **Machine Learning and AI**, driven by curiosity and problem-solving.
-
-I enjoy building **end-to-end systems** — from backend logic and APIs to data pipelines and intelligent models — while understanding *how things work under the hood* and *why they fail at the edges*.
-
-My core interests include:
-- Full Stack Development  
-- Machine Learning & AI  
-- System Programming  
-- Cloud & DevOps  
-- Algorithms and Data Structures  
-
-I value **clarity over complexity**, **reliability over hacks**, and continuous improvement through iteration.
-
-**Guiding mindset:**  
-Stuck → Analyze → Fix → Move forward
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Primary stats card -->
-![Ritvik’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=RITVIKKAMASETTY&show_icons=true&theme=tokyonight)
-
-<!-- Top languages card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RITVIKKAMASETTY&layout=compact&theme=tokyonight)
-
-</div>
-
-
-
----
-
-## 🧠 Problem Solving Metrics
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Y0gtcc5Abj?theme=dark&font=Nunito&ext=contest)](https://leetcode.com/u/Y0gtcc5Abj/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;GenAI+Engineer;Designing+Scalable+Systems;Always+Learning" />
 
 </div>
 
 ---
 
-## 🌐 Let’s Connect
+## 👨‍💻 What I Do
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,fastapi,python,js,rust,java,docker,postgres,kafka" />
+</p>
+
+I’m a **Full Stack Developer** and **Generative AI Engineer** focused on building **scalable, production-ready systems**.
+
+I work across:
+- backend services & APIs  
+- AI-powered applications  
+- system design for scale and reliability  
+
+I care deeply about **how systems behave under load**, **how they fail**, and **how to make them robust**.
+
+---
+
+## 🧠 Core Areas
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritvik--k)  
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritvikritvsymp@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Y0gtcc5Abj/)
+| 💻 Full Stack | 🤖 GenAI | ⚙️ Systems |
+|--------------|---------|-----------|
+| Frontend & Backend | LLM-powered apps | Scalable architecture |
+| APIs & Databases | RAG & Agents | Performance & reliability |
 
 </div>
 
 ---
 
-<div align="center">
-  
-*Makes things work… eventually*
+## 🚀 Currently Growing In
 
-![Profile Views](https://komarev.com/ghpvc/?username=RITVIKKAMASETTY&color=8b5cf6&style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-6366f1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-8b5cf6?style=for-the-badge" />
+</p>
+
+I love continuously improving my understanding of:
+- **ML fundamentals**
+- **Deep Learning applications**
+- **large-scale distributed systems**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,java,rust" />
+</p>
+
+### Frameworks & Communication
+<p>
+  <img src="https://skillicons.dev/icons?i=react,fastapi" />
+  <img height="48" src="https://grpc.io/img/logos/grpc-icon-color.png" />
+</p>
+
+- React  
+- FastAPI  
+- WebSockets  
+- gRPC  
+
+### Generative AI
+<p>
+  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20Systems-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-black?style=for-the-badge" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+</p>
+
+- Graph Databases  
+- Vector Databases  
+
+### DevOps & Infra
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kafka,githubactions" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/RITVIKKAMASETTY">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/ritvik--k">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ritvikritvsymp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+**Building systems that scale — and still make sense.**
 
 </div>
